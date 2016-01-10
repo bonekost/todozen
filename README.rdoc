@@ -1,5 +1,6 @@
 == ToDoZEN
 
+Description: TODO :)
 
 Developed for:
 
@@ -10,4 +11,4 @@ Developed for:
 
 == Deployment [own server]
 
-<tt>rake doc:app</tt>.
+TODO
